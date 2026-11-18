@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/jonathon-chew/learn-cicd-starter/actions/workflows/ci/badge.svg
+![alt text goes here](https://github.com/jonathon-chew/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
 
 )
 
