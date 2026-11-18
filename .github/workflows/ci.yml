@@ -6,12 +6,12 @@ on:
 
 jobs:
 
-  formatting:
-    name: format
+  Style:
+    name: Style
     runs-on: ubuntu-latest
 
     steps:
-      - name: Format code
+      - name: Style
         run: test -z $(go fmt ./...)
 
   tests:
